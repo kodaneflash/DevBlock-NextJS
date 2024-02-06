@@ -4,8 +4,8 @@ import Link from "next/link";
 
 
 export const metadata = {
-  title: "About Me",
-  description: `Here are some details about my self.`,
+  title: "About FoundersForge",
+  description: `Actionable insights, tech trends and market updates to help you start and grow your business, daily.`,
 };
 
 export default function About() {

@@ -14,11 +14,11 @@ const AboutCoverSection = () => {
         </div>
 
         <div className='w-full md:w-1/2 flex flex-col text-left items-start justify-center px-5 xs:p-10 pb-10 lg:px-16'>
-            <h2 className='font-bold capitalize text-4xl xs:text-5xl sxl:text-6xl  text-center lg:text-left'>
-            Esse voluptate consequat aliquip.
+            <h2 className='font-bold text-4xl xs:text-5xl sxl:text-6xl  text-center lg:text-left'>
+            Laborum irure deserunt mollit excepteur cillum
             </h2>
-            <p className='font-medium capitalize mt-4 text-base'>
-            Ad reprehenderit voluptate consequat tempor consequat enim fugiat ea culpa cillum non. Non ullamco aliqua enim excepteur commodo eu eiusmod pariatur ullamco laboris do adipisicing proident. Sit laborum occaecat nostrud non. Exercitation aliquip aute eiusmod irure quis anim quis. Do ut exercitation nostrud duis. 
+            <p className='font-medium  mt-4 text-base'>
+            Consequat minim magna magna aute eiusmod exercitation. Laborum irure deserunt mollit excepteur cillum.
             </p>
         </div>
     </section>
