@@ -20,8 +20,8 @@ const Footer = () => {
         Interesting Stories | Updates | Guides
       </h3>
       <p className="mt-5 px-4 text-center w-full sm:w-3/5 font-light dark:font-medium text-sm sm:text-base">
-        Subscribe to learn about new technology and updates. Join over 5000+
-        members community to stay up to date with latest news.
+        Subscribe to learn about new technology and business. Join over 5000+
+        aspiring founders to stay up to date with latest news.
       </p>
 
       <form
@@ -77,7 +77,7 @@ const Footer = () => {
 
       <div className="w-full  mt-16 md:mt-24 relative font-medium border-t border-solid border-light py-6 px-8 flex  flex-col md:flex-row items-center justify-between">
         <span className="text-center">
-          &copy;2023 CodeBucks. All rights reserved.
+          &copy;2023 DevBlock. All rights reserved.
         </span>
         <Link
           href="/sitemap.xml"
@@ -86,9 +86,9 @@ const Footer = () => {
           sitemap.xml
         </Link>
         <div className="text-center">
-          Made with &hearts; by{" "}
-          <a href="https://devdreaming.com" className="underline" target="_blank">
-            CodeBucks
+          Personal Website by{" "}
+          <a href="https://jamesarcher.io" className="underline" target="_blank">
+            James
           </a>
         </div>
       </div>
